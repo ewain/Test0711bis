@@ -1,0 +1,44 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1509793349618" />
+    <property name="lastTip" value="11" />
+    <property name="newly.installed.api.level" value="22" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="com.android.tools.idea.uibuilder.surface.DesignSurface.error.panel.split" value="0.6727273" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="SAVED_COMPANY_DOMAIN" value="indian.com" />
+    <property name="MobileminApi" value="21" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ConstraintLayoutPreferenceShowAllConstraints" value="true" />
+    <property name="ConstraintLayoutPreferenceAutoConnect" value="true" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="276" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AndroidStudioProjects/NewGit&#10;C:/Users/sbusato/AndroidStudioProjects/TestGitAndroidStudio&#10;C:/Users/sbusato/AndroidStudioProjects/Ciao&#10;C:/Users/sbusato/mine/as/CustomListviewDemo&#10;C:/Users/sbusato/mine/as/CustomListviewDemo/AndroidManifest.xml" />
+    <property name="AndroidPlatformName" value="Android API 25 Platform" />
+    <property name="last.imported.location" value="$USER_HOME$/mine/as/CustomListviewDemo" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6675063" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="studio.activity.count" value="0" />
+  </component>
+</application>

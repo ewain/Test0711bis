@@ -1,0 +1,122 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="TestGit" values="AndroidRunConfigurationType" collectionTime="1508322891809" />
+      <project id="PushGit" values="AndroidRunConfigurationType" collectionTime="1508329243477" />
+      <project id="Tutorial3App" values="AndroidRunConfigurationType" collectionTime="1507893938835" />
+      <project id="NewGit" values="AndroidRunConfigurationType" collectionTime="1508326012720" />
+      <project id="Test" values="AndroidRunConfigurationType" collectionTime="1509793631480" />
+      <project id="TestService" values="AndroidRunConfigurationType" collectionTime="1508329418886" />
+      <project id="TestGitAndroidStudio" values="AndroidRunConfigurationType" collectionTime="1508325546115" />
+      <project id="Ciao" values="AndroidRunConfigurationType" collectionTime="1508325533006" />
+    </group>
+    <group name="module type">
+      <project id="TestGit" values="JAVA_MODULE" collectionTime="1508322891809" />
+      <project id="PushGit" values="JAVA_MODULE" collectionTime="1508329243477" />
+      <project id="Tutorial3App" values="JAVA_MODULE" collectionTime="1507893938834" />
+      <project id="NewGit" values="JAVA_MODULE" collectionTime="1508326012720" />
+      <project id="Test" values="JAVA_MODULE" collectionTime="1509793631477" />
+      <project id="TestNew" values="JAVA_MODULE" collectionTime="1508323318191" />
+      <project id="TestGitAndroidStudio" values="JAVA_MODULE" collectionTime="1508325546115" />
+      <project id="TestSimo" values="JAVA_MODULE" collectionTime="1508323014946" />
+      <project id="Ciao" values="JAVA_MODULE" collectionTime="1508325533006" />
+      <project id="TestService" values="JAVA_MODULE" collectionTime="1508329418886" />
+    </group>
+    <group name="vcs">
+      <project id="TestGit" values="Git" collectionTime="1508322891809" />
+      <project id="PushGit" values="Git" collectionTime="1508329243477" />
+      <project id="NewGit" values="Git" collectionTime="1508326012720" />
+      <project id="Test" values="Git" collectionTime="1509793631474" />
+      <project id="TestNew" values="Git" collectionTime="1508323318191" />
+      <project id="TestGitAndroidStudio" values="Git" collectionTime="1508325546115" />
+      <project id="TestSimo" values="Git" collectionTime="1508323014946" />
+      <project id="Ciao" values="Git" collectionTime="1508325533006" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="TestGit" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1508322891840" />
+      <project id="PushGit" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1508329243509" />
+      <project id="NewGit" values="data.commit.count.0,data.git.root.count.1" collectionTime="1508326012756" />
+      <project id="Test" values="data.commit.count.0,data.git.root.count.1" collectionTime="1509793631608" />
+      <project id="TestNew" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1508323318195" />
+      <project id="TestGitAndroidStudio" values="data.git.root.count.1,data.commit.count.0" collectionTime="1508325546154" />
+      <project id="TestSimo" values="data.git.root.count.1,data.commit.count.0" collectionTime="1508323014950" />
+      <project id="Ciao" values="data.commit.count.0,data.git.root.count.1" collectionTime="1508325533045" />
+    </group>
+    <group name="file-type">
+      <project id="TestGit" values="ARCHIVE,IDEA_MODULE,Properties,PLAIN_TEXT,ProGuard File,XML,Images,JAVA,Groovy,UNKNOWN" collectionTime="1508322891839" />
+      <project id="PushGit" values="IDEA_MODULE,Groovy,ARCHIVE,Properties,ProGuard File,Images,XML,PLAIN_TEXT,UNKNOWN,JAVA" collectionTime="1508329243508" />
+      <project id="Tutorial3App" values="Properties,JAVA,PLAIN_TEXT,Images,ProGuard File,ARCHIVE,Groovy,IDEA_MODULE,XML,UNKNOWN" collectionTime="1507893938887" />
+      <project id="NewGit" values="Groovy,JAVA,UNKNOWN,ARCHIVE,IDEA_MODULE,Images,Properties,ProGuard File,PLAIN_TEXT,XML" collectionTime="1508326012755" />
+      <project id="Test" values="UNKNOWN,JAVA,Properties,ProGuard File,XML,ARCHIVE,Images,IDEA_MODULE,PLAIN_TEXT,Groovy" collectionTime="1509793631593" />
+      <project id="TestService" values="Groovy,PLAIN_TEXT,Images,XML,ARCHIVE,UNKNOWN,IDEA_MODULE,JAVA,Properties,ProGuard File" collectionTime="1508329418915" />
+      <project id="TestGitAndroidStudio" values="IDEA_MODULE,UNKNOWN,ARCHIVE,Properties,PLAIN_TEXT,JAVA,Groovy,Images,XML,ProGuard File" collectionTime="1508325546154" />
+      <project id="Ciao" values="IDEA_MODULE,ARCHIVE,UNKNOWN,Properties,Images,ProGuard File,JAVA,Groovy,XML,PLAIN_TEXT" collectionTime="1508325533044" />
+      <project id="TestSimo" values="XML" collectionTime="1508323014950" />
+    </group>
+    <group name="images.ide.background">
+      <project id="TestGit" values="frame 0,editor 0" collectionTime="1508322891840" />
+      <project id="PushGit" values="frame 0,editor 0" collectionTime="1508329243509" />
+      <project id="Tutorial3App" values="frame 0,editor 0" collectionTime="1507893938896" />
+      <project id="NewGit" values="frame 0,editor 0" collectionTime="1508326012756" />
+      <project id="Test" values="editor=0,frame=0" collectionTime="1509793631608" />
+      <project id="TestNew" values="editor 0,frame 0" collectionTime="1508323318195" />
+      <project id="TestGitAndroidStudio" values="editor 0,frame 0" collectionTime="1508325546154" />
+      <project id="TestSimo" values="editor 0,frame 0" collectionTime="1508323014950" />
+      <project id="Ciao" values="frame 0,editor 0" collectionTime="1508325533045" />
+      <project id="TestService" values="editor 0,frame 0" collectionTime="1508329418915" />
+    </group>
+    <group name="Git">
+      <project id="TestGit" values="config.cherry-pick.autocommit.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,data.local.branches.count.1,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.0,config.repo.sync.DONT_SYNC,data.remotes.in.project.0" collectionTime="1508322891841" />
+      <project id="PushGit" values="config.warn.about.crlf.enabled,config.ssh.enabled,data.remote.branches.count.1,data.remotes.in.project.1,data.local.branches.count.1,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1508329243510" />
+      <project id="Tutorial3App" values="config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1507893938900" />
+      <project id="NewGit" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.0,data.remotes.in.project.2+,data.remote.branches.count.0,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1508326012756" />
+      <project id="Test" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.0,data.remotes.in.project.2+,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.local.branches.count.0,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1509793631614" />
+      <project id="TestNew" values="config.force.push.enabled,config.warn.about.detached.enabled,data.remote.branches.count.0,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1508323318202" />
+      <project id="TestGitAndroidStudio" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remote.branches.count.0,data.local.branches.count.0,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.remotes.in.project.2+" collectionTime="1508325546155" />
+      <project id="TestSimo" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remote.branches.count.0,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.local.branches.count.0,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1508323014951" />
+      <project id="Ciao" values="data.remotes.in.project.0,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.0,config.ssh.enabled,data.local.branches.count.0,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1508325533046" />
+      <project id="TestService" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1508329418915" />
+    </group>
+    <group name="frameworks">
+      <project id="TestGit" values="java-gradle,android,android-gradle" collectionTime="1508322891809" />
+      <project id="PushGit" values="android,android-gradle,java-gradle" collectionTime="1508329243477" />
+      <project id="Tutorial3App" values="java-gradle,android-gradle,android" collectionTime="1507893938833" />
+      <project id="NewGit" values="android,java-gradle,android-gradle" collectionTime="1508326012720" />
+      <project id="Test" values="android-gradle,java-gradle,android" collectionTime="1509793631476" />
+      <project id="TestService" values="java-gradle,android-gradle,android" collectionTime="1508329418886" />
+      <project id="TestGitAndroidStudio" values="java-gradle,android-gradle,android" collectionTime="1508325546115" />
+      <project id="Ciao" values="android-gradle,java-gradle,android" collectionTime="1508325533006" />
+    </group>
+    <group name="language-level">
+      <project id="TestGit" values="JDK_1_7" collectionTime="1508322891841" />
+      <project id="PushGit" values="JDK_1_7" collectionTime="1508329243510" />
+      <project id="Tutorial3App" values="JDK_1_7" collectionTime="1507893938898" />
+      <project id="NewGit" values="JDK_1_7" collectionTime="1508326012756" />
+      <project id="Test" values="JDK_1_8,JDK_1_7" collectionTime="1509793631610" />
+      <project id="TestNew" values="JDK_1_3" collectionTime="1508323318202" />
+      <project id="TestGitAndroidStudio" values="JDK_1_7" collectionTime="1508325546155" />
+      <project id="TestSimo" values="JDK_1_3" collectionTime="1508323014951" />
+      <project id="Ciao" values="JDK_1_7" collectionTime="1508325533046" />
+      <project id="TestService" values="JDK_1_7" collectionTime="1508329418915" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="55" />
+      <entry feature="ide.help.settings_passwords_master_password_init" count="1" />
+      <entry feature="ide.settings.Android_SDK" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Version_Control" count="9" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="tips.of.the.day.next" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.GoogleCloudTools.SampleImport" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+    </counts>
+  </component>
+</application>
